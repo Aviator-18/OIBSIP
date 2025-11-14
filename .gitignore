@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 OnlineExaminationSystem/target/
 !.mvn/wrapper/maven-wrapper.jar
 !OnlineExaminationSystem/src/main/**/target/
@@ -11,6 +12,12 @@ OnlineExaminationSystem/target/
 *.iws
 *.iml
 *.ipr
+=======
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+>>>>>>> 1414fc1 (Add NumberGuessingGame files, screenshots and sync README)
 
 ### Eclipse ###
 .apt_generated
@@ -20,6 +27,12 @@ OnlineExaminationSystem/target/
 .settings
 .springBeans
 .sts4-cache
+<<<<<<< HEAD
+=======
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+>>>>>>> 1414fc1 (Add NumberGuessingGame files, screenshots and sync README)
 
 ### NetBeans ###
 /nbproject/private/
@@ -27,12 +40,22 @@ OnlineExaminationSystem/target/
 /dist/
 /nbdist/
 /.nb-gradle/
+<<<<<<< HEAD
 build/
 !OnlineExaminationSystem/src/main/**/build/
 !OnlineExaminationSystem/src/test/**/build/
+=======
+>>>>>>> 1414fc1 (Add NumberGuessingGame files, screenshots and sync README)
 
 ### VS Code ###
 .vscode/
 
 ### Mac OS ###
 .DS_Store
+.idea/
+
+.idea/
+
+.idea/
+
+.idea/
