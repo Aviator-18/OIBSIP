@@ -81,14 +81,6 @@ Each hint can only be used **once per round**.
   Example:  
   `openjfx-25.0.1-sdk`
 
-### ✔️ Project Structure
-```
-/src
- └── NumberGuessingGameFX.java
-/screenshots (you create this)
-/README.md
-```
-
 ---
 
 ## ▶️ Running via IntelliJ IDEA (Recommended)
