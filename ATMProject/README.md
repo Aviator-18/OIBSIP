@@ -57,7 +57,26 @@ A modern, feature-rich ATM (Automated Teller Machine) system built with JavaFX f
 
 ## 📸 Screenshots
 
-> Add screenshots here after deployment
+🔐 Secure Login Interface
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/398dc12a-4a31-4e6c-8973-e8ef1836b2ac" />
+
+🏠 User Home Dashboard
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/ad95a4ee-7f25-45a3-81d7-dfa05aabe0b5" />
+
+💳 Account Details & Balance Summary
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/67110d73-e4af-4c28-ab8e-724f591b2cf8" />
+
+💵 Cash Withdrawal Interface
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/5fff4c2f-0dff-44e1-a6ab-4a66d2892002" />
+
+💰 Deposit Funds Panel
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/d242ebc8-35f2-455f-8213-eebc21719478" />
+
+📜 Transaction History Viewer
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/cdd49d17-6d28-4abc-92eb-669c4e0f8436" />
+
+🔁 Internal Account Transfer Screen
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/3ece358f-9b2e-4446-9819-d532a36d2163" />
 
 ## 🛠 Technologies Used
 
@@ -176,16 +195,15 @@ java --module-path "path/to/javafx-sdk/lib" --add-modules javafx.controls,javafx
 
 Try the system with these pre-loaded accounts:
 
-| User ID  | PIN  | Account Number | Balance     | Account Holder      |
-|----------|------|----------------|-------------|---------------------|
-| user001  | 1234 | ACC001         | $15,000.00  | John Smith          |
-| user002  | 2345 | ACC002         | $22,500.50  | Emma Johnson        |
-| user003  | 3456 | ACC003         | $8,750.25   | Michael Williams    |
-| user010  | 0123 | ACC010         | $33,500.00  | Isabella Lopez      |
-| user020  | 0000 | ACC020         | $17,500.75  | Evelyn Lee          |
+| User ID  | PIN  | Account Number | Account Holder      |
+|----------|------|----------------|---------------------|
+| demo001  | 1111 | DEMO001        | Test User One       |
+| demo002  | 2222 | DEMO002        | Test User Two       |
+| demo003  | 3333 | DEMO003        | Test User Three     |
+
 
 **Test Scenarios:**
-1. Login as `user001` (PIN: `1234`)
+1. Login as `demo001` (PIN: `1111`)
 2. Withdraw $500
 3. Check transaction history
 4. Transfer $100 to `ACC002`
@@ -277,22 +295,6 @@ Colors and styles can be modified in each screen class:
 - Font sizes
 - Layout spacing
 
-## 🐛 Troubleshooting
-
-### Issue: "JavaFX runtime components are missing"
-**Solution:** Add VM options with correct JavaFX path
-
-### Issue: "Access denied for user 'root'"
-**Solution:** Check MySQL password in `DatabaseConfig.java`
-
-### Issue: "Communications link failure"
-**Solution:** Ensure MySQL service is running
-
-### Issue: "Table doesn't exist"
-**Solution:** Run the SQL script to create database
-
-For more help, see [Issues](https://github.com/Aviator-18/OIBSIP/issues)
-
 ## 🤝 Contributing
 
 Contributions are welcome! Here's how:
@@ -328,10 +330,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Vasudev Sharma**
 - GitHub: [@Aviator-18](https://github.com/Aviator-18)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn](www.linkedin.com/in/vasudev-sharma18)
+- Email: vasudevcse27@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -339,18 +341,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - JavaFX documentation and community
 - MySQL documentation
 - Stack Overflow community
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Troubleshooting](#-troubleshooting) section
-2. Search existing [Issues](https://github.com/Aviator-18/OIBSIP/issues)
-3. Create a new issue with:
-   - Clear description
-   - Steps to reproduce
-   - Screenshots (if applicable)
-   - Error messages
 
 ## ⭐ Show Your Support
 
@@ -360,4 +350,3 @@ If you found this project helpful, please give it a ⭐️!
 
 **Made with ❤️ for learning and development**
 
-*Last Updated: November 2024*
