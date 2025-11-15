@@ -178,6 +178,11 @@ USE atm_system;
 SELECT COUNT(*) FROM users;  -- Should return 50
 SELECT COUNT(*) FROM transactions;  -- Should return 10
 ```
+## ⚠️ Security Note
+Before running, update `src/DatabaseConfig.java` with your MySQL credentials:
+- Username: your MySQL username
+- Password: your MySQL password
+
 
 ## ▶️ Running the Application
 
