@@ -58,25 +58,32 @@ A modern, feature-rich ATM (Automated Teller Machine) system built with JavaFX f
 ## 📸 Screenshots
 
 🔐 Secure Login Interface
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/398dc12a-4a31-4e6c-8973-e8ef1836b2ac" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/398dc12a-4a31-4e6c-8973-e8ef1836b2ac" />
+
 
 🏠 User Home Dashboard
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/ad95a4ee-7f25-45a3-81d7-dfa05aabe0b5" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/ad95a4ee-7f25-45a3-81d7-dfa05aabe0b5" />
+
 
 💳 Account Details & Balance Summary
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/67110d73-e4af-4c28-ab8e-724f591b2cf8" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/67110d73-e4af-4c28-ab8e-724f591b2cf8" />
+
 
 💵 Cash Withdrawal Interface
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/5fff4c2f-0dff-44e1-a6ab-4a66d2892002" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/5fff4c2f-0dff-44e1-a6ab-4a66d2892002" />
+
 
 💰 Deposit Funds Panel
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/d242ebc8-35f2-455f-8213-eebc21719478" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/d242ebc8-35f2-455f-8213-eebc21719478" />
+
 
 📜 Transaction History Viewer
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/cdd49d17-6d28-4abc-92eb-669c4e0f8436" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/cdd49d17-6d28-4abc-92eb-669c4e0f8436" />
+
 
 🔁 Internal Account Transfer Screen
-<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/3ece358f-9b2e-4446-9819-d532a36d2163" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/3ece358f-9b2e-4446-9819-d532a36d2163" />
+
 
 ## 🛠 Technologies Used
 
