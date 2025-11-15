@@ -349,7 +349,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Vasudev Sharma**
 - GitHub: [@Aviator-18](https://github.com/Aviator-18)
-- LinkedIn: [Your LinkedIn](www.linkedin.com/in/vasudev-sharma18)
+- LinkedIn: [Vasudev Sharma](https://www.linkedin.com/in/vasudev-sharma18)
 - Email: vasudevcse27@gmail.com
 
 ## 🙏 Acknowledgments
