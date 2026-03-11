@@ -418,7 +418,7 @@ If you found these projects helpful or interesting, please consider:
 **Looking for Java Developer roles and collaborative projects!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vasudev-sharma18)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:vasudevcse27@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:vasudevsharma4249@gmail.com)
 
 ---
 
